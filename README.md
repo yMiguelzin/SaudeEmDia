@@ -14,8 +14,9 @@ Aplicativo mobile desenvolvido no **Kodular** e integrado com uma base de dados 
 
 ## 📁 Estrutura do Repositório
 
-* **`/src` (`.aia`):** Código-fonte completo com as 12 telas do aplicativo (autenticação, painel principal, gestão de consultas, medicamentos, histórico e edição de perfil com validação de dados).
+* **`SaudeEmDia_oficial.aia`:** Código-fonte completo com as 12 telas do aplicativo (autenticação, painel principal, gestão de consultas, medicamentos, histórico e edição de perfil com validação de dados).
 * **`schema.sql`:** Script SQL completo com a estrutura de tabelas e views do Supabase.
+* **`SaudeEmDia_oficial.apk`:** APK COMPLETO.
 
 ---
 
